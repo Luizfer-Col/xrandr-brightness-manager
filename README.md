@@ -80,12 +80,12 @@ You can download the `set_brightness.sh` file directly from this repository usin
 
 - Using `wget`:
   ```bash
-  wget https://raw.githubusercontent.com/Luizfer-Col/xrandr-brightness-manager/main/set_brightness.sh
+  wget https://raw.githubusercontent.com/Luizfer-Col/xrandr-brightness-manager/master/set_brightness.sh
   ```
 
 - Using `curl`:
   ```bash
-  curl -O https://raw.githubusercontent.com/Luizfer-Col/xrandr-brightness-manager/main/set_brightness.sh
+  curl -O https://raw.githubusercontent.com/Luizfer-Col/xrandr-brightness-manager/master/set_brightness.sh
   ```
 
 ### Usage
@@ -130,4 +130,4 @@ The use of this script is at your own risk. I am not responsible for any damage 
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
